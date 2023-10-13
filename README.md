@@ -12,7 +12,12 @@
 </div>
  
  ##
- 
- <div>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<br><br>
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FlameProfi&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false" height="150" alt=""/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlameProfi&theme=slateorange&hide_border=false" height="150" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlameProfi&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt=""/>
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=FlameProfi&icon=0&color=5)](https://visitcount.itsvg.in)
